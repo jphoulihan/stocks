@@ -1,0 +1,20 @@
+{
+  "ticker":"TRE SQ Equity",
+  "ID_CUSIP":"17816501",
+  "ID_ISIN":"ES0178165017",
+  "ID_SEDOL1":"B16FTB9",
+  "ClosePrice (USD)":26.943098,
+  "Next Dividend":"11\/01\/2019",
+  "Issuer":"TECNICAS REUNIDAS SA",
+  "Security Type":"Common Stock",
+  "Sector":"Energy",
+  "Index":"IBEX",
+  "Index Type":null,
+  "Country Incorp":"ES",
+  "Country Dom":"ES",
+  "Primary Exchange Name":"EUR CONTIN",
+  "Market Cap":1506011452.0,
+  "VolumeAvg (30D)":242398.0,
+  "VolumeAvg (90D)":226667.0,
+  "VolumeAvg (6M)":346030.0
+}
