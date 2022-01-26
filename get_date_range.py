@@ -25,8 +25,6 @@ def date_range(date_1, date_2):
 
     if final_df.empty:
         print("Range must be greater than 0")
-        return 
     else:
         final_df.to_csv(f"exports/date_range/{start_date}.csv", index=False)
         print('File exported')
-        return 

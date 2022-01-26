@@ -1,0 +1,20 @@
+{
+  "ticker":"MARAS FH Equity",
+  "ID_CUSIP":null,
+  "ID_ISIN":"FI0009900385",
+  "ID_SEDOL1":"4572378",
+  "ClosePrice (USD)":4.027284,
+  "Next Dividend":"14\/03\/2019",
+  "Issuer":"MARTELA OYJ",
+  "Security Type":"Common Stock",
+  "Sector":"Industrials",
+  "Index":"HEX",
+  "Index Type":"Other",
+  "Country Incorp":"FI",
+  "Country Dom":"FI",
+  "Primary Exchange Name":"EUR HELSIN",
+  "Market Cap":14300080.9000000004,
+  "VolumeAvg (30D)":4866.0,
+  "VolumeAvg (90D)":5619.0,
+  "VolumeAvg (6M)":5248.0
+}

@@ -35,4 +35,3 @@ def get_stock_by_idx(idx):
         outfile.write(json_obj)
     
     print('File exported')
-    return

@@ -6,8 +6,6 @@ stocks.drop_duplicates(subset=None, inplace=True)
 
 stocks["Next Dividend"] = pd.to_datetime(stocks["Next Dividend"], dayfirst=True)
 
-print(stocks["Next Dividend"].sample().to_string(index=False))
-
 count = 0
 while count < 5:
 

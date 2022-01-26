@@ -1,0 +1,20 @@
+{
+  "ticker":"UL NA Equity",
+  "ID_CUSIP":"F95094110",
+  "ID_ISIN":"FR0000124711",
+  "ID_SEDOL1":"B1YY4B3",
+  "ClosePrice (USD)":215.54479,
+  "Next Dividend":"28\/11\/2018",
+  "Issuer":"UNIBAIL-RODAMCO SE",
+  "Security Type":"REIT",
+  "Sector":"Real Estate",
+  "Index":"CAC",
+  "Index Type":null,
+  "Country Incorp":"FR",
+  "Country Dom":"FR",
+  "Primary Exchange Name":"EUR AMSTRD",
+  "Market Cap":0.0,
+  "VolumeAvg (30D)":0.0,
+  "VolumeAvg (90D)":0.0,
+  "VolumeAvg (6M)":981958.0
+}
