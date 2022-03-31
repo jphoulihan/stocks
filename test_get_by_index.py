@@ -7,7 +7,7 @@ idx_comp = pd.read_json("data/IndexComposition.json")
 stock_idx_names = list(idx_comp)
 
 count = 0
-while count < 10:
+while count < 3: #number of test input to be run
 
     test_input = random.choice(stock_idx_names)
     print("Index search: ", test_input)

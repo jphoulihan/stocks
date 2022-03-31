@@ -9,7 +9,7 @@ div = stocks["Next Dividend"]
 tick = stocks["ticker"]
 date_df = pd.concat([tick, div], axis=1).drop_duplicates().reset_index(drop=True)
 
-# convert dates to datetime
+# convert string dates to datetime
 date_df["Next Dividend"] = pd.to_datetime(date_df["Next Dividend"], dayfirst=True)
 
 

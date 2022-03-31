@@ -1,5 +1,10 @@
 
-# **ASSIGNMENT**
+# **Automating Stock Analysis**
+
+### **Tech Used**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## **Given the two files: Stocks.csv, IndexComposition.json :**
 <br>
@@ -15,28 +20,6 @@
     <br>
 
 * ### Create a function that takes in a date range and a returns a .csv containing the ticker and Next Dividend for all stocks with Next Dividend within that range.
-
-<br>
-
-* ### Create a function that takes in a list of stocks and quantities in the form:
-
-        [
-	    {“Stock”: US18914U1007, “Shares”:1000000},
-	    {“Stock”: 96758W101, “Shares”:600000},
-	    …
-	    {   “Stock”: BZ1LFG7, “Shares”:230000},
-        ]
-
-    ### and returns a .csv file containing the value-weighted composition of the list for the following fields: Security Type, Sector, Index, Country Dom.
-
-    <br>
-
-## NB
-
-<b>Meaningful function names and clear code are better than comments.
-Consider edge cases and inputs that might break your functions.
-Consider what would happen if a different set of Stocks or Index Compositions were passed to your functions.
-
 
 ## Additional Info on Identifiers
 

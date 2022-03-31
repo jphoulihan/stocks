@@ -7,7 +7,7 @@ stocks.drop_duplicates(subset=None, inplace=True)
 stocks["Next Dividend"] = pd.to_datetime(stocks["Next Dividend"], dayfirst=True)
 
 count = 0
-while count < 5:
+while count < 5: #number of test input to be run
 
     date_1 = stocks["Next Dividend"].sample().to_string(index=False)
     date_2 = stocks["Next Dividend"].sample().to_string(index=False)

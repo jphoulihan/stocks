@@ -23,6 +23,8 @@ def get_stock_by_idx(idx):
         
     for i in stock_list:
         json_obj = json.loads(get_stock_json(i, False))
+        format_json = json.dumps(json_obj, indent=4)
+        print(format_json)
         cap_list.append(json_obj["Market Cap"])
 
     filtered_cap_list = list(filter(None, cap_list))
